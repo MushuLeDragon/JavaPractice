@@ -16,6 +16,12 @@ public class JavaPractice {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        Hello("Bjr");
+    }
+    
+    public static void Hello(String s) {
+        System.out.println(s);
     }
     
 }
